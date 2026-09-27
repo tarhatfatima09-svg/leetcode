@@ -1,6 +1,9 @@
 # LeetCode Solutions
 
-A personal collection of LeetCode problems solved as part of my coding practice and portfolio building.
+**Name:** Tarhat Fatima  
+**SRN:** R25EJ160  
+
+Personal LeetCode practice log — part of B25GE0101 portfolio
 
 ## Table of Contents
 
@@ -8,7 +11,6 @@ A personal collection of LeetCode problems solved as part of my coding practice 
 - [Basic Algorithms](#basic-algorithms)
 - [Stacks](#stacks)
 - [Linked Lists](#linked-lists)
-- [Progress](#progress)
 
 ---
 
@@ -16,11 +18,11 @@ A personal collection of LeetCode problems solved as part of my coding practice 
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 01 | Two Sum | Easy | [01-two-sum.cpp](arrays-strings/01-two-sum.cpp) |
-| 02 | Reverse String | Easy | [02-reverse-string.cpp](arrays-strings/02-reverse-string.cpp) |
-| 03 | Valid Anagram | Easy | [03-valid-anagram.cpp](arrays-strings/03-valid-anagram.cpp) |
-| 04 | Best Time to Buy and Sell Stock | Easy | [04-best-time-buy-sell-stock.cpp](arrays-strings/04-best-time-buy-sell-stock.cpp) |
-| 05 | Longest Common Prefix | Easy | [05-longest-common-prefix.cpp](arrays-strings/05-longest-common-prefix.cpp) |
+| 01 | Two Sum | Easy | [01-two-sum.cpp](array%20-%20strings/01-two-sum.cpp) |
+| 02 | Reverse String | Easy | [02-reverse-string.cpp](array%20-%20strings/02-reverse-string.cpp) |
+| 03 | Valid Anagram | Easy | [03-valid-anagram.cpp](array%20-%20strings/03-valid-anagram.cpp) |
+| 04 | Best Time to Buy and Sell Stock | Easy | [04-best-time-buy-sell-stock.cpp](array%20-%20strings/04-best-time-buy-sell-stock.cpp) |
+| 05 | Longest Common Prefix | Easy | [05-longest-common-prefix.cpp](array%20-%20strings/05-longest-common-prefix.cpp) |
 
 ---
 
@@ -49,9 +51,9 @@ Problems will be added here as I progress.
 
 ## Progress
 
-- Arrays & Strings: 5 problems
-- Basic Algorithms: 2 problems
-- Stacks: 1 problem
-- Linked Lists: 0 problems
+**Total Problems Completed:** 8
 
-**Total: 8 LeetCode problems completed**
+- Arrays & Strings: 5
+- Basic Algorithms: 2
+- Stacks: 1
+- Linked Lists: 0
